@@ -1,1 +1,1 @@
-# -trinkerr-interview-react
+# trinkerr-interview-react
